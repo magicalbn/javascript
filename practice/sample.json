@@ -1,0 +1,8 @@
+{
+    "name":"Nehal",
+    "age":4,
+    "location":{
+        "city":"Goa",
+        "county":"India"
+    }
+}
