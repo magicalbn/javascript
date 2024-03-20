@@ -23,7 +23,7 @@ const reverseNum = (num) => {
 };
 
 // console.log(reverse("sample"));
-// console.log(reverseNum(201123));
+console.log(reverseNum(201123));
 
 const sum = (arr) => {
     return arr.reduce((sum, each) => {
